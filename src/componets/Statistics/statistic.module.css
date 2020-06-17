@@ -1,0 +1,15 @@
+.statistics {
+  width: 300px;
+  outline: 1px solid black;
+  margin-left: 100px;
+}
+.statList {
+  display: flex;
+
+  justify-content: center;
+  /* padding-right: 40px; */
+}
+.h2 {
+  text-transform: uppercase;
+  text-align: center;
+}

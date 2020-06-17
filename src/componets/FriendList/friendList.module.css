@@ -1,0 +1,13 @@
+.mainDiv {
+  display: flex;
+  align-items: center;
+  width: 100px;
+}
+.spanRed {
+  color: red;
+  background-color: black;
+}
+.spanGreen {
+  background-color: green;
+  color: white;
+}
